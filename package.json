@@ -1,0 +1,16 @@
+{
+  "name": "heroku-depl-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.min.js",
+  "scripts": {
+    "start": "node index.min.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
